@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.bg-green {
+    background-color:#28A745;  
+}
+
+.logoimg {
+    width: 132px;
+   
+}
+
+p{
+    color: #707070; 
+}
+
+.ahora{
+    color: #28A745;
+}
+
+section{
+    background-color: #28A745;
+   
+ 
+}
+
+
+.logoimgblack {
+    width: 82pt;
+   
+}
+
+.cupponlatam{
+    color: #707070;
+    padding: 2%;
+}
